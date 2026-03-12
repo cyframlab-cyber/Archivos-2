@@ -1,0 +1,3 @@
+TITULO: Prueba
+PARRAFO: esta es una targeta #2
+IMAGEN: 12.jpeg
