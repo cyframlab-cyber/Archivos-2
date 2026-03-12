@@ -1,0 +1,3 @@
+TITULO: sistema solar
+PARRAFO: es un sistema solar muy agradable
+IMAGEN: cuarta dimensión.jpg
