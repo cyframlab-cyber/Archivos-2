@@ -1,0 +1,3 @@
+TITULO: Prueba
+PARRAFO: Está es una prueba de las targetas.
+IMAGEN: fondo del graficador.png
