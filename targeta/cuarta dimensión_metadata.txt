@@ -1,0 +1,3 @@
+TITULO: Universo
+PARRAFO: El universo es basto y grandioso.
+IMAGEN: cuarta dimensión.jpg
