@@ -1,3 +1,0 @@
-TITULO: Un producto
-PARRAFO: he seleccionado un producto
-IMAGEN: Ingenieria.jpg
